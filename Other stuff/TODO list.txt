@@ -2,3 +2,4 @@ TODO list for T-STAR
 
 Add TheEnd map!
 Add AI!
+Add "French","Ukrainian","German" Localization!

@@ -29,12 +29,12 @@ use pocketmine\utils\Config;
 use pocketmine\utils\Utils;
 
 class Installer{
-	const DEFAULT_NAME = "Minecraft: PE Server";
+	const DEFAULT_NAME = "Minecraft:PE&Win10 Server";
 	const DEFAULT_PORT = 19132;
 	const DEFAULT_MEMORY = 512;
 	const DEFAULT_PLAYERS = 20;
 	const DEFAULT_GAMEMODE = 0;
-	const DEFAULT_LEVEL_NAME = "world";
+	const DEFAULT_LEVEL_NAME = "World";
 	const DEFAULT_LEVEL_TYPE = "DEFAULT";
 	
 	const LEVEL_TYPES = [
