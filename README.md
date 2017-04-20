@@ -1,7 +1,8 @@
 # T-STAR
 
 
-[Move to GenisysPro]
+We have just move to**[GenisysPro](https://github.com/GenisysPro/GenisysPro)**
+
 A Server core in php written by PocketMine Team
 
 Get core：https://goo.gl/DVypoR
